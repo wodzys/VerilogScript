@@ -15,7 +15,8 @@ it uses the following format(mif):
 import os
 import datetime
 import win32ui
-import win32api, win32con
+import win32api
+import win32con
 
 
 def read(f_in):
